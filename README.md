@@ -7,7 +7,11 @@ Despite the advances in medicine, there are still no diagnostic methods for psyc
 # A list of 1-5 key papers summarising the subject:
 
 Latest advances in this field https://www.nature.com/articles/s41380-019-0365-9/
+
 https://academic.oup.com/pcm/article/3/3/202/5898685/
+
 https://www.sciencedirect.com/science/article/pii/S2213158221000280/
+
 one of the packages we will use https://github.com/miykael/gif_your_nifti/
+
 nextflow resources https://www.nextflow.io/docs/latest/script.html
